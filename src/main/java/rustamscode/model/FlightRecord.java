@@ -8,6 +8,9 @@ import java.util.List;
 
 @Getter
 @Setter
+@NoArgsConstructor
+@AllArgsConstructor
+@EqualsAndHashCode
 @FieldDefaults(level = AccessLevel.PRIVATE)
 public class FlightRecord {
     AircraftType aircraftType;

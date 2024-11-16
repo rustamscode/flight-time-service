@@ -1,15 +1,15 @@
 package rustamscode.model;
 
-import lombok.AccessLevel;
-import lombok.Data;
+import lombok.*;
 import lombok.experimental.FieldDefaults;
 
-import java.util.List;
-
-@Data
+@Setter
+@Getter
+@AllArgsConstructor
+@NoArgsConstructor
+@EqualsAndHashCode
 @FieldDefaults(level = AccessLevel.PRIVATE)
 public class FlightSpecialist {
-    String id;
+    int id;
     String name;
-    List<FlightRecord> flights;
 }

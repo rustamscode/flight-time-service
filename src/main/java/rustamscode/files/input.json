@@ -1,0 +1,146 @@
+[
+  {
+    "aircraftType": "BOEING",
+    "airCraftNumber": "AB123",
+    "departureTime": [
+      2024,
+      9,
+      12,
+      10,
+      0
+    ],
+    "arrivalTime": [
+      2024,
+      9,
+      12,
+      14,
+      30
+    ],
+    "crew": [
+      {
+        "id": 1,
+        "name": "Джевин Пол"
+      },
+      {
+        "id": 2,
+        "name": "Егор Бугаенко"
+      },
+      {
+        "id": 6,
+        "name": "Род Джонсон"
+      }
+    ]
+  },
+  {
+    "aircraftType": "AIRBUS",
+    "airCraftNumber": "CD456",
+    "departureTime": [
+      2024,
+      11,
+      13,
+      9,
+      30
+    ],
+    "arrivalTime": [
+      2024,
+      11,
+      13,
+      13,
+      0
+    ],
+    "crew": [
+      {
+        "id": 3,
+        "name": "Марк Рейнхольд"
+      },
+      {
+        "id": 4,
+        "name": "Арун Гупта"
+      }
+    ]
+  },
+  {
+    "aircraftType": "GULFSTREAM",
+    "airCraftNumber": "EF789",
+    "departureTime": [
+      2024,
+      5,
+      14,
+      8,
+      0
+    ],
+    "arrivalTime": [
+      2024,
+      5,
+      14,
+      12,
+      0
+    ],
+    "crew": [
+      {
+        "id": 1,
+        "name": "Джевин Пол"
+      },
+      {
+        "id": 5,
+        "name": "Джошуа Блох"
+      }
+    ]
+  },
+  {
+    "aircraftType": "CESSNA",
+    "airCraftNumber": "GH012",
+    "departureTime": [
+      2024,
+      8,
+      12,
+      14,
+      0
+    ],
+    "arrivalTime": [
+      2024,
+      8,
+      12,
+      18,
+      30
+    ],
+    "crew": [
+      {
+        "id": 7,
+        "name": "Евгений Борисов"
+      },
+      {
+        "id": 4,
+        "name": "Арун Гупта"
+      }
+    ]
+  },
+  {
+    "aircraftType": "BOEING",
+    "airCraftNumber": "IJ345",
+    "departureTime": [
+      2024,
+      10,
+      10,
+      7,
+      30
+    ],
+    "arrivalTime": [
+      2024,
+      10,
+      10,
+      10,
+      15
+    ],
+    "crew": [
+      {
+        "id": 3,
+        "name": "Марк Рейнхольд"
+      },
+      {
+        "id": 5,
+        "name": "Джошуа Блох"
+      }
+    ]
+  }
+]
